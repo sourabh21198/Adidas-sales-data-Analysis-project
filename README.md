@@ -83,4 +83,17 @@ Dashboard screenshots are included in this repository.
 ---
 
 ## 📁 Project Structure
+Adidas-sales-data-Analysis-project/
+│
+├── README.md
+│
+├── notebooks/
+│   └── adidas_sales_end_to_end.ipynb
+│
+├── dashboards/
+│   └── dashboard.png
+│
+└── architecture/
+    └── medallion_architecture.png
+
 
