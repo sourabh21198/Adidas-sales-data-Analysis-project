@@ -1,6 +1,6 @@
 # Adidas Sales Data Analysis Project
 
-## 📌 Overview
+##  Overview
 This is an end-to-end data engineering and analytics project built using **Databricks** to analyze **Adidas US sales data for the years 2020 and 2021**.  
 The project follows the **Medallion Architecture (Bronze → Silver → Gold)** and produces business-ready insights that are visualized using **Databricks Dashboards**.
 
@@ -8,7 +8,7 @@ All data processing (Bronze, Silver, and Gold layers) is implemented in a **sing
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Databricks
 - Apache Spark (PySpark)
 - Delta Lake
@@ -18,7 +18,7 @@ All data processing (Bronze, Silver, and Gold layers) is implemented in a **sing
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 **Medallion Architecture**
 
 - **Bronze Layer** – Raw data ingestion and schema enforcement  
@@ -28,7 +28,7 @@ All data processing (Bronze, Silver, and Gold layers) is implemented in a **sing
 
 ---
 
-## 🥉 Bronze Layer
+##  Bronze Layer
 **Purpose:** Store raw data in a reliable format
 
 ### Key Steps:
@@ -39,7 +39,7 @@ All data processing (Bronze, Silver, and Gold layers) is implemented in a **sing
 
 ---
 
-## 🥈 Silver Layer
+##  Silver Layer
 **Purpose:** Prepare clean and trustworthy data for analytics
 
 ### Key Steps:
@@ -53,7 +53,7 @@ All data processing (Bronze, Silver, and Gold layers) is implemented in a **sing
 
 ---
 
-## 🥇 Gold Layer
+##  Gold Layer
 **Purpose:** Generate business insights and KPIs
 
 ### Gold-Level Outputs:
@@ -67,7 +67,7 @@ All data processing (Bronze, Silver, and Gold layers) is implemented in a **sing
 
 ---
 
-## 📊 Dashboard
+##  Dashboard
 An interactive dashboard is created using **Databricks Dashboards** on top of Gold Delta tables.
 
 ### Dashboard Highlights:
