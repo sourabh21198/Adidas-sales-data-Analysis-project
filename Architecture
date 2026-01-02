@@ -1,0 +1,7 @@
+# Architecture
+
+This project follows the Medallion Architecture pattern:
+
+- Bronze Layer: Raw ingestion & schema enforcement
+- Silver Layer: Data cleaning, null handling, corrupt & duplicate removal
+- Gold Layer: Business KPIs and aggregations used for dashboards
