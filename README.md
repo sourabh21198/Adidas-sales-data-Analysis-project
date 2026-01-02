@@ -82,7 +82,7 @@ Dashboard screenshots are included in this repository.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 <img width="585" height="379" alt="image" src="https://github.com/user-attachments/assets/caf145cd-1646-4a6d-8d94-502b0ce724c9" />
 
 
